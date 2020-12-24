@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Awesome Brush Application</string>
+    <string name="plugin_brush">Brush</string>
 </resources>
